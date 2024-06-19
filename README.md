@@ -1,3 +1,6 @@
-# Issue Tracker
+Issue Tracker
 
-This is the boilerplate for the Issue Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
+Full stack Javascript application that uses mongoDB as a database. Uses API routing which accepts get, post, put and delete requests to track issues sort of like personal a digital library and includes Chai functional tests. This project was made as an assignment for the FreeCodeCamp relational databases curriculum.
+
+More information about the assignment can be found here:
+https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
